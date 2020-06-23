@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">D&amp;T Pushkit Demo</string>
+    <string name="get_token_button">Button</string>
+    <string name="btn_get_token">Token</string>
+</resources>
